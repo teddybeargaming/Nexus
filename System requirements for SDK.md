@@ -6,3 +6,4 @@ For Windows/Win64
   - Same as Windows, except replace VS Code with Xcode (12.3 or later recommended)
     For the web
     Still working on it, lol.
+    To download SDK, click on "Code" then select "Download ZIP"
