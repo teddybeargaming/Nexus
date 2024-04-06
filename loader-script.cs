@@ -1,3 +1,8 @@
 using SystemCollections;
 using Nexus3D;
-console.WriteLine("Initializing game, please wait...")
+#include "locales/"
+  //Prepares game for execution
+  public void LoadGame()
+{
+  Application.Launch
+  }
